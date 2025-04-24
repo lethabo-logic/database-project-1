@@ -68,4 +68,4 @@ This project presents a relational database design for a simplified e-commerce p
 
 ## 👨‍💻 Author
 
-Built by [Group 538] as part of an academic or personal learning project.
+Built by Group 538 as part of an academic or personal learning project.
